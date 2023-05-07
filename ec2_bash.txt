@@ -1,0 +1,6 @@
+sudo yum update -y
+sudo yum install nodejs npm -y
+sudo npm install -g express-generator
+
+npm init
+npm install uuid
